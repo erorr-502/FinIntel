@@ -1,0 +1,26 @@
+[
+  {
+    "doc_id": "RELIANCE-Q1-DEMO",
+    "symbol": "RELIANCE",
+    "title": "Reliance Industries — Synthetic Q1 filing",
+    "text": "The synthetic filing reports steady revenue growth and improving operating margins across retail and digital services. Management also notes execution risk and sensitivity to energy-market volatility."
+  },
+  {
+    "doc_id": "RELIANCE-EXCHANGE-DEMO",
+    "symbol": "RELIANCE",
+    "title": "Reliance — Synthetic exchange disclosure",
+    "text": "A simulated exchange disclosure records above-normal trading volume. The disclosure does not establish a confirmed reason for the change in activity."
+  },
+  {
+    "doc_id": "TCS-Q1-DEMO",
+    "symbol": "TCS",
+    "title": "TCS — Synthetic Q1 filing",
+    "text": "The synthetic filing reports stable deal wins, resilient margins and continued cloud demand. Management flags uncertainty in discretionary technology spending."
+  },
+  {
+    "doc_id": "INFY-Q1-DEMO",
+    "symbol": "INFY",
+    "title": "Infosys — Synthetic Q1 filing",
+    "text": "The synthetic filing reports improving large-deal activity and a stable margin outlook. It also notes currency sensitivity and uneven demand across regions."
+  }
+]

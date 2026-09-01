@@ -1,0 +1,4 @@
+symbol,price,day_change,volume_anomaly,momentum,sentiment,volatility
+RELIANCE,2992.00,0.61,1.38,72,0.58,0.31
+TCS,4290.00,0.21,1.05,64,0.35,0.24
+INFY,1942.00,0.62,1.24,69,0.44,0.28
