@@ -15,6 +15,14 @@ Instead of only showing stock charts or predictions, FININTEL focuses on:
 **What is happening, why is it happening, and what does it mean for this particular investor?**
 
 ---
+## Team Data Divas
+
+- Juee Mahale
+- Pranjali Joshi
+- Sagnika Mukherjee
+- Garima Choudhari
+
+---
 
 ## The Problem
 
